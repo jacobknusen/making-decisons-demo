@@ -58,5 +58,14 @@ while(eowynhealth > 0){
 
 
 //created by jacob knudsen 02/09/2022
-// Always follow you're dream's.
+// Always follow your dream's.
 // You're the stock 
+
+
+////////// //////////////   ///////    ////////
+///    /// /     //    /    //// //   //    ////
+///    ///      //          ///  //  //     ///
+//////////      //         ///   // //     ///
+///    ///      //        ///    ////     ///
+///    ///      //       ///    ///      ///
+///    ///    //////    ////   ///      /////
